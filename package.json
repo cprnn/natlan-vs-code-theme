@@ -3,6 +3,18 @@
   "displayName": "natlan-vs-code-theme",
   "description": "Genshin Impact's Natlan region colors for your VSCode, by @cprnn!",
   "version": "0.0.1",
+  "publisher" : "cprnn",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cprnn/natlan-vs-code-theme"
+  },
+  "keywords": [
+    "dark theme",
+    "colorful theme",
+    "groovy theme",
+    "genshin impact",
+    "natlan"
+  ],
   "engines": {
     "vscode": "^1.116.0"
   },
