@@ -9,5 +9,5 @@
 
 🔥Find me on my [socials](https://linktr.ee/cprn)!🔥
 
-© All rights reserved by miHoYo. Other properties belong to their respective owners.
+© All rights reserved by Hoyoverse. Other properties belong to their respective owners.
 
