@@ -11,7 +11,7 @@
     "badge.foreground": "#563B66",
     "breadcrumb.activeSelectionForeground": "#563B66",
     "breadcrumb.background": "#0F152E",
-    "breadcrumb.focusForeground": "#A52F47",
+    "breadcrumb.focusForeground": "#89e70d",
     "breadcrumb.foreground": "#b37bd3",
     "breadcrumbPicker.background": "#0F152E",
     "button.background": "#563B6650",
@@ -47,7 +47,7 @@
     "editorInfo.foreground": "#DB522E70",
     "editorLineNumber.activeForeground": "#DB522E",
     "editorLineNumber.foreground": "#563B66c0",
-    "editorLink.activeForeground": "#A52F47",
+    "editorLink.activeForeground": "#50c00f",
     "editorMarkerNavigation.background": "#A52F4705",
     "editorOverviewRuler.border": "#0F152E",
     "editorOverviewRuler.errorForeground": "#406FC940",
@@ -90,7 +90,7 @@
     "list.hoverBackground": "#19234D",
     "list.hoverForeground": "#E14160",
     "list.inactiveSelectionBackground": "#0F152E30",
-    "list.inactiveSelectionForeground": "#563B66",
+    "list.inactiveSelectionForeground": "#81e034",
     "list.warningForeground": "#70B6AC",
     "listFilterWidget.background": "#0F152E30",
     "listFilterWidget.noMatchesOutline": "#0F152E30",
@@ -119,7 +119,7 @@
     "panel.border": "#0F152E60",
     "panelTitle.activeBorder": "#563B66",
     "panelTitle.activeForeground": "#E14160",
-    "panelTitle.inactiveForeground": "#A52F47",
+    "panelTitle.inactiveForeground": "#ee5170",
     "peekView.border": "#0F152E30",
     "peekViewEditor.background": "#A52F4705",
     "peekViewEditor.matchHighlightBackground": "#563B6650",
@@ -164,7 +164,7 @@
     "statusBarItem.remoteForeground": "#0F152E",
     "tab.activeBackground": "#ac49e654",
     "tab.activeBorder": "#563B66",
-    "tab.activeForeground": "#ff4167",
+    "tab.activeForeground": "#dbe914",
     "tab.activeModifiedBorder": "#563B66",
     "tab.border": "#0F152E",
     "tab.inactiveBackground": "#563B6620",
@@ -603,7 +603,7 @@
     {
       "scope": ["support.type.property-name.json"],
       "settings": {
-        "foreground": "#A52F47"
+        "foreground": "#d64a66"
       }
     },
     {
