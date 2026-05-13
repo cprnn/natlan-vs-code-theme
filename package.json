@@ -2,7 +2,7 @@
   "name": "natlan-vs-code-theme",
   "displayName": "Natlan Colors",
   "description": "Genshin Impact's Natlan region colors for your VSCode, by @cprnn!",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "publisher" : "cprnn",
   "repository": {
     "type" : "git",
